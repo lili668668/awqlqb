@@ -13,7 +13,7 @@ $ yarn add awqlqb
 ```
 
 ```js
-const AWQLQB = require('AWQLQB')
+const AWQLQB = require('awqlqb')
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ const AWQLQB = require('AWQLQB')
 ### A basic example
 
 ```js
-const AWQLQB = require('AWQLQB')
+const AWQLQB = require('awqlqb')
 
 const awql = new AWQLQB()
 
