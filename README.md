@@ -45,5 +45,5 @@ Inspired by [FQB](https://github.com/chunkai1312/fqb)
 
 [AWQL Intoduction](https://developers.google.com/adwords/api/docs/guides/awql)
 
-[npm-image]: https://img.shields.io/npm/v/fqb.svg
-[npm-url]: https://npmjs.org/package/fqb
+[npm-image]: https://img.shields.io/npm/v/awqlqb.svg
+[npm-url]: https://npmjs.org/package/awqlqb
