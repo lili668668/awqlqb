@@ -1,6 +1,6 @@
 {
   "name": "awqlqb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AdWords Query Language query builder for JavaScript",
   "main": "index.js",
   "scripts": {
